@@ -1,7 +1,7 @@
 const first = 2;
 const second = "2";
-//if(first === second)  // check only value & type ta ke convert kore kasakasi kore dekhbe same naki
-if(first === second){    // check value and type
+//if(first == second)  // kon type er value check korbe na... just value ta check korbe
+if(first === second){    //value and type check korbe .....like c++ er == er moto
     console.log("Condition is true");
 }
 else{
